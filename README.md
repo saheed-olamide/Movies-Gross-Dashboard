@@ -1,62 +1,37 @@
-# Movies-Gross-Dashboard
- An interactive Excel dashboard analyzing box office movie performance in 2022
-# 🎬 Movie Gross Analysis Dashboard (2022)
-
-This project presents an interactive Excel dashboard that analyzes global box office performance for movies released in 2022. Designed with a clean and insightful layout, it allows users to explore top-grossing films, monthly trends, and distribution patterns at a glance.
-
----
+# 🎬 Movies Gross Earnings Dashboard (Excel Project)
 
 ## 📊 Project Overview
+This Excel-based data analysis project explores global box office performance across different movie genres, production countries, and release years. The aim is to identify top-performing movies, revenue trends, and regional performance using data-driven visualizations.
 
-The dashboard provides:
-- **Total World Gross** value for all movies in 2022
-- **Top 10 Distributors** by revenue
-- **Top 5 Most and Least Grossing Movies**
-- **Monthly Trends** (January to December)
-- **Pie Chart Analysis** by month
-- **Interactive Slicers** for:
-  - Released Date (Month)
-  - Movie Titles
+## 🧰 Tools & Techniques Used
+- Microsoft Excel
+  - Data Cleaning (removing duplicates, formatting)
+  - Pivot Tables
+  - Charts (Bar, Pie, Line)
+  - Slicers and Filters
+  - Conditional Formatting
 
----
+## 🎯 Objectives
+- Compare domestic vs international gross earnings
+- Identify top 10 highest-grossing movies
+- Analyze gross by genre and production country
+- Summarize key trends visually through a dashboard
 
-## 🧰 Tools & Features Used
+## 📈 Key Insights
+- Action and Adventure genres generate the highest gross earnings.
+- The United States leads in domestic box office revenue.
+- International markets account for a significant portion of earnings in top-grossing movies.
 
-- **Microsoft Excel**
-- PivotTables & PivotCharts
-- Slicers for filtering
-- Line Charts & Bar Charts
-- Pie Chart Visualization
-- Conditional Formatting
-- Clean and structured dashboard layout
+## 🗂️ Files in This Repository
+- `Movies Gross Dashboard.xlsx` – Excel workbook containing data, analysis, and dashboard.
+- `Dashboard Screenshot.png` – Image preview of the completed dashboard.
 
----
+## ✅ Skills Demonstrated
+- Data Cleaning and Structuring
+- Pivot Table Creation
+- Chart and Dashboard Design
+- Analytical Thinking and Insight Generation
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
+![Dashboard Preview](Dashboard%20Screenshot.png)
 
-![Dashboard Overview](dashboard-overview.png)
-
----
-
-## 📁 Project Files
-
-- `Movie-Gross-Dashboard.xlsx`: Full Excel dashboard with slicers and visualizations
-- `dashboard-overview.png`: Image preview of the final dashboard layout
-
----
-
-## 🚀 How to Use
-
-1. Open the `Movie-Gross-Dashboard.xlsx` file in Microsoft Excel.
-2. Use the **Slicers** to filter data by month or movie title.
-3. Analyze the charts for trends, top performers, and overall gross statistics.
-
----
-
-## 💡 Insight
-
-This dashboard was built to simulate real-world data storytelling and decision-making using Excel. It showcases the potential of Excel as a tool for business intelligence and reporting.
-
----
-
-`#ExcelDashboard` `#DataVisualization` `#MovieAnalytics` `#PowerPivot` `#ExcelProject` `#BoxOfficeAnalysis`
